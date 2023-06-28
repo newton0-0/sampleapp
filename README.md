@@ -1,2 +1,1 @@
-# sampleapp
-sample for tutorial
+
